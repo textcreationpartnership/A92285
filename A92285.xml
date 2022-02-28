@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons most humbly offered to the consideration of Parliament, why a bill now depending before them, against Richard Thompson and partners should not be passed</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92285</idno>
+            <idno type="STC">Wing R570E</idno>
+            <idno type="STC">ESTC R42397</idno>
+            <idno type="EEBO-CITATION">36273484</idno>
+            <idno type="OCLC">ocm 36273484</idno>
+            <idno type="VID">150211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150211)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2236:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons most humbly offered to the consideration of Parliament, why a bill now depending before them, against Richard Thompson and partners should not be passed</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Richard Thompson and Company (London, England)</term>
+               <term>Bankruptcy --  England --  Criminal provision --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:150211:1" rendition="simple:additions"/>
+            <head>Reaſons moſt Humbly Offered to the Conſideration of Parliament, Why a Bill now depending before them, againſt <hi>Richard Thompſon</hi> and Partners ſhould not be paſſed.</head>
+            <div n="1" type="suggestion">
+               <p>
+                  <hi>THE Bill ſuggeſts,</hi> Firſt, <hi>That the Laws and Statutes of this Kingdom made for prevention of fraudulent and wicked practices of Bankrupts in deceiving their Creditors, do not ſufficiently reach the evil contrivances of</hi> Richard Thompſon <hi>and Partners, in regard the Penalties of the Laws are not ſevere enough to meet with them.</hi>
+               </p>
+               <p>The Honourable Houſes of Parliament can beſt judg whether in general the ſaid Laws and Statutes be not ſufficient? and, Whether it be the de<g ref="char:EOLhyphen"/>fect <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> or exceſs of ſeverity which deſerves their inſpection, ſince the ſaid Laws are more ſevere and penal in <hi>England,</hi> than in any other part of Chri<g ref="char:EOLhyphen"/>ſtendom. And if the former Laws have been thus long ſufficient for others, It is humbly hoped there will appear no occaſion for making a more ri<g ref="char:EOLhyphen"/>gorous Law againſt <hi>Thompſon</hi> and his Partners, than againſt any other, ſince they lye under the ſame circumſtances with all other trading Merchants.</p>
+            </div>
+            <div n="2" type="suggestion">
+               <p>Second SUGGESTION: Secondly, <hi>That</hi> Richard Thompſon <hi>and Partners having been Merchants and Traders in or near the City of</hi> London, <hi>and acquired great Eſtates, the better to gain them Credits, became joint Partners in taking up and giving Security for great ſumms of Moneys, by which means they became poſſeſ<g ref="char:EOLhyphen"/>ſed upon Security to the value of about</hi> 200 <hi>Thouſand pounds, with intent to defraud all their Creditors.</hi>
+               </p>
+               <p>The Summs though great were not above 136 Thouſand Pound in all, as appeared to their Creditors, upon view of the Books, and is ſaid to be <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 200000 <hi>l.</hi> meerly to encreaſe clamor againſt them; the greater their Eſtates were at firſt, the better was their Security, and the leſs probability is there of having any fraudulent deſign. Their Security was made good by them for above five years, no man all that time was refuſed either Principal or Intereſt when demanded. But afterwards their Creditors running upon them all at once, deſtroyed that Security; but they deny that ever they had any intent at any time to defraud any one of their Creditors of a penny.</p>
+            </div>
+            <div n="3" type="suggestion">
+               <p>Third SUGGESTION: Thirdly, <hi>That in Order to accompliſh this fraud they diſpoſed their Stocks into ſeveral Factories beyond the Seas, and put the ſame out of the reach and power of any Commiſſion of Bankrupt; which practice of the ſaid</hi> Richard Thompſon <hi>&amp; Partners are to the utter ruin &amp; undoing of many Families.</hi>
+               </p>
+               <p>They did as all other Merchants imploy their Moneys in Foreign parts in the moſt probable Trades, the better to enable them to pay Intereſt, but <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> did not ſo diſpoſe their Stocks to conceal or imbezel them from their Creditors; for their Books in which was included an Accompt of their whole Eſtate from <hi>March</hi> 1675, till near <hi>Midſummer</hi> 1677, by agreement with their Creditors, lay conſtantly open for their daily inſpection, which clear<g ref="char:EOLhyphen"/>ly ſhews that there was nothing of ſecret contrivance on their parts, but always in a fair open method of Negotiation.</p>
+            </div>
+            <div n="4" type="suggestion">
+               <p>Fourth SUGGESTION: <hi>That</hi> Richard Thompſon <hi>and Partners, the better to colour their wicked deſigns after they had made over their own private Eſtates, and ſecured the Moneys of their Creditors, did refuſe to pay any of them. And the ſaid</hi> Richard Thompſon <hi>and Partners did appoint a meeting with all their Cre<g ref="char:EOLhyphen"/>ditors, to acquaint them that in regard their Moneys was beyond the Seas (though they could not pretend any loſs) they did only deſire time to pay them without abatement; to which they conſented: Which deſign of the ſaid</hi> Richard Thompſon <hi>and Partners was to get what Moneys they could into their hands, and to ſecure their Books and Accompts, and leave all their Creditors unpaid.</hi>
+               </p>
+               <p>The fact indeed is thus, When the Creditors firſt grew jealous (without any juſt cauſe given on their parts) they did not for ſix Months after refuſe <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> any payments, nor ſo long as they were able to make Moneys out of their Eſſects at home or abroad, ſo that before any ſtop of Payments they had paid them in that hurry about 60000 <hi>l.</hi> This being ſo ſuddenly torn out of their ſeveral Trades (well) but newly laid, was of ſo great prejudice to the growing Eſtate, that they were inforced to deſire a meeting of all the Creditors, which being accompliſhed, they there propoſed to ſurrender Books and Eſtates into their own management, deſiring them either to accept thereof, or to allow time. The far greater part of the Creditors upon their own reaſons, and the inſpections made into their Books, refuſed the firſt, but complied with the ſecond, that ſo that Eſtate (what remained) abroad might be drawn back with better conveniency, and ſubſcribed their agreement to that purpoſe. Whereupon <hi>Thompſon</hi> and his Partners pro<g ref="char:EOLhyphen"/>ceeded with all diligence to get in what they could, leſt all ſhould be loſt, well hoping to have paid every man, but were diſabled by one third of their Creditors, who ſtanding out by daily Actions, Arreſts, Attachments, and by threatning with Statutes of Bankrupt; extorted from them ſome double, ſome treble, their Proportions payable to them by agreement aforeſaid; and many were paid their whole Debts, by which means there was Iſſued out to them and others in Principal and Intereſt at leaſt 50000 <hi>l.</hi> being above one third of the whole remaining Debt, which neceſſarily after their firſt ſtreights put them upon further Extremities. So that it is evident hitherto there could be no fraud intended.</p>
+               <p>And as to what is ſaid, That they could not then pretend any loſs, ſo far they allow it to be true, that having at that time ſubjected their Books to their Creditors, they diſcourſed but ſparingly of their Loſſes, (although then very conſiderable:) Becauſe the complying Creditors had many of them promis'd to give new Credits, nor were the wounds <gap reason="illegible: blotted" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Eſtate then ſo wide but the performance of ſuch promiſe would have cloſed and cu<g ref="char:EOLhyphen"/>red them, and would not only have re-eſtabliſhed <hi>Thompſon</hi> and his Partners, but ſecured their Creditors debts, which was the only Cauſe that they did not openly publiſh their Loſſes at that time, but that ſuch there were, hath ſince been and will at any time be made out by clear and full proof if deſired.</p>
+            </div>
+            <div n="5" type="suggestion">
+               <p>Fifth SUGGESTION. <hi>That a Commiſſion of Bankrupt is lately Iſſued out of His Majeſties High Court of Chancery againſt the ſaid</hi> Richard Thompſon, <hi>and Partners; but they to prevent the due execution thereof, have abſconded themſelves, and conveyed away their Books and Eſtates on purpoſe to defraud their Creditors, and the Execution of the ſaid Commiſſion, and are declared Bankrupts by the ſaid Commiſſioners in purſuance of the ſeveral Statutes againſt Bankrupts, &amp;c.</hi>
+               </p>
+               <p>About <hi>Midſummer</hi> 1677, (till which time their Books and Eſtates lay open to the Creditors view and diſpoſal), they taking a Survey of their <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> Trade, and remaining Eſtate were ſurprized with the vaſt loſſes they found was befallen them, partly by caſualties at Sea, partly by bad Debts; but moſtly from the impatient demands of their Creditors, by which they were made utterly incapable of complying with their Obligations; yet nei<g ref="char:EOLhyphen"/>ther then did <hi>Richard Thompſon</hi> and Partners abſcond themſelves, or convey away their Books or Eſtates, with deſign to defraud their Creditors; but being in a moſt deplorable Condition under daily Arreſts from thoſe Creditors, that had not complied before, their Eſtates and Credits was there<g ref="char:EOLhyphen"/>by ruined and deſtroyed. Whereupon one of their company was forced into the <hi>Kings-Bench</hi> Priſon, where he hath remained ever ſince, and long before the ſitting of the Parliament made frequent offers to deliver up the reſidue of their mangled Eſtate into the hands of their Creditors, which by as near a calculation as they could make, amounted to Six Shillings eight pence <hi>per</hi> pound, which with the 50000 <hi>l.</hi> paid before, makes above thirteen Shillings <hi>per</hi> pound of the whole debt (if it had been equally divided), being a much greater Compoſition than moſt men have lately paid under the like Circumſtances. With this Propoſition moſt of their Creditors (ſeeming ſatisfied concerning the great loſſes come upon the Eſtate, which are ready to be made out upon Oath by good and creditable Witneſſes), were as before, and ſo ſtill are willing to accept the remaining Eſtate according to the aforeſaid Calculation and Propoſal of 6 <hi>s.</hi> 8 <hi>d. per</hi> pound, the which they publickly declared in print before the meeting of Par<g ref="char:EOLhyphen"/>liament; but are hindred by thoſe few, who not only do violently proſecute the Statute of Bankrupt againſt them, but alſo have preferred this Bill, which tends only to the further waſt and imbezlement of the remaining Eſtate, and ruin of many poor Families. And this they violently proſecute, (it is to be feared) only for their own private advantage, and to prevent ſo good an agreement as aforeſaid, from coming to a concluſion. In order whereunto they way-laid another of the Partners, when he adventured to have met the Creditors upon their own deſires, publiſhed rewards in print, to any that ſhould diſcover him or any other of them, ſearch houſes for them, and procured them to be publickly proclaimed Bankrupts, for which extraordinary eagerneſs they cannot imagine any cauſe, unleſs it be, becauſe they have lately before the bringing in this Bill, offered to the Major part of their Creditors, the whole Eſtate in kind, ſo as all their Obligations may be delivered up, and they be allowed a reaſonable maintenance for their numerous Family.</p>
+               <p>This being the true Narrative of their preſent State and Condition, they moſt humbly offer to the ſerious Conſideration of Parliament.</p>
+               <p>
+                  <hi>Firſt,</hi> Whether they will think it fit or reaſonable to paſs this Bill (and that with a retroſpection) purpoſely to puniſh them in a way more ſe<g ref="char:EOLhyphen"/>vere than ever by Law hath hitherto been provided, and that for a fact committed before the Law made; an accident under which many other eminent Citizens have unhappily fallen of late years; and ſome of them ſince this misfortune hapned to theſe, and yet none but themſelves made liable to the penalties intended to be inflicted by this Act.</p>
+               <p>
+                  <hi>Secondly,</hi> Whether it ſtands with the Honour of Parliament to make a Law to invite any perſon whatſoever to a breach of Faith, by diſcover<g ref="char:EOLhyphen"/>ing a ſecret truſt repoſed in them, and to confer Rewards upon them for the ſame, or to impoſe a penalty upon ſuch, who notwithſtanding ſuch Law ſhall be juſt in keeping the ſecrets of thoſe who have intruſted them.</p>
+               <p>
+                  <hi>Thirdly,</hi> Whether if a Bill for ſuch a pupoſe ſhall be thought reaſonable to paſs the ſame, ought not to be General againſt all men in <hi>Thompſon's</hi> and his Partners Condition, and not againſt them and their Truſtees or Creditors only: and whether convenient to be made with retroſpection, or on<g ref="char:EOLhyphen"/>ly to puniſh ſuch who ſhall fall under the like Circumſtances with them for the future.</p>
+               <p>Whereas to prevent all agreements between the ſaid <hi>Thompſon,</hi> and Partners, and their Creditors, and the more eaſily to effect the paſſing of this Bill; ſome of the Proſecutors thereof, have, and do frequently declare abroad, that they have been offered their whole debts with a good ſur<g ref="char:EOLhyphen"/>pluſage, <note place="margin">
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>te.</note> ſo as they would agree to proceed no further upon this Bill. Now the ſaid <hi>Thompſon</hi> and Partners do ſolemnly declare to all the world, That neither they, nor any of them, nor any others for, or on their behalf, by their direction, or with their privity, knowledg, or conſent, hath or did at any time directly or indirectly ever make any ſuch offer to any of them. But on the contrary do aver, that ſuch Propoſitions have been made to them, to which they could never give their conſents, leaſt they ſhould juſtly lay themſelves open thereby to the Cenſures of the reſt of their Creditors, who in ſuch caſe would have had good grounds to have affirmed they were guilty of deſigning to defraud them of their juſt Debts.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
